@@ -14,7 +14,7 @@ v{version}, 2018-06-19
   <img alt="Author" src="https://img.shields.io/badge/author-{author}-blue.svg">&nbsp;
   <img alt="EMail" src="https://img.shields.io/badge/mail-{mail}-orange.svg">&nbsp;
   <img alt="Version" src="https://img.shields.io/badge/version-{version}-brightgreen.svg">&nbsp;
-  <img alt="Platforms" src="https://img.shields.io/badge/platform-Xcode-lightgrey.svg">
+  <img alt="Platforms" src="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
 </p>
 ++++
 
